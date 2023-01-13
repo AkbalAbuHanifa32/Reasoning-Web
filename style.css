@@ -493,11 +493,19 @@ footer {
     header ul {
         text-align: center;
         float: none;
+        margin: 0 -34px;
+    }
+
+    header ul li a {
+        padding: 25px 16px;
     }
 
     .banner h2 {
         border: none;
-        font-size: xx-large;
+        font-size: medium;
+        margin: 0 20px;
+        letter-spacing: 9px;
+        font-weight: 50px;
     }
 
     .banner {
